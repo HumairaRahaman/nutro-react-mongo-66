@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Nutrition Counseling",
+    "description": "A Dynamic exchange between the RD and client that includes nutrition education, behavior modification, motivational interviewing, and other techniques that help create positive changes in diet and lifestyle.",
+    "img": "image/v1.jpeg",
+    "price": "4000"
+  },
+  {
+    "id": "2",
+    "name": "Medical Nutrition Therapy",
+    "description": "Medical Nutrition Therapy is the term used to describe the nutrition care plan that a registered dietitian can provide.  This includes a thorough nutritional assessment, diagnosis, intervention, and monitoring/evaluation.",
+    "img": "image/v2.jpeg",
+    "price": "2500"
+  },
+  {
+    "id": "3",
+    "name": "Dietitian Services",
+    "description": " An RD has completed an accredited Bachelor of Science degree in Nutrition and Dietetics and has completed a minimum of 900 hours of supervised practice as well as must pass a national exam",
+    "img": "image/v3.jpeg",
+    "price": "2000"
+  },
+  {
+    "id": "4",
+    "name": "Diabetes Nutrition",
+    "description": "Diabetes is a chronic medical condition that if left uncontrolled, can have short and long term affects that will decrease one's quality of life and lifespan. Diabetes and obesity are associated with elevated rates of lost productivity and disability.",
+    "img": "image/v4.jpeg",
+    "price": "1700"
+  },
+  {
+    "id": "5",
+    "name": "Optimal Health Program",
+    "description": "The program uses a combination of specially formulated portion controlled meal replacement products as well as a regular meal that contains lean protein, salad, and/or a variety of vegetables with elevated rates of lost productivity and disability.",
+    "img": "image/v5.jpeg",
+    "price": "1500"
+  }
+]
